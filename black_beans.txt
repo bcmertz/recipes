@@ -1,3 +1,8 @@
+inspiration:
+- https://www.bonappetit.com/recipe/basically-black-bean-soup
+- https://www.cocoandash.com/cuban-black-beans/
+- https://minimalistbaker.com/instant-pot-black-beans-perfect-beans-every-time/
+
 - 1:3 beans to water (or stock)
 - 1/2 tsp salt / 1 cup beans
 - spices: lots of paprika and cumin, garlic and onion powder, some woody herbs, a little tumeric fenugreek coriander and sumac
